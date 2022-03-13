@@ -5,7 +5,7 @@ Simple bloat-less powermenu for minimalitic i3wm.
 - Gtk
 - OS
 
-![shutdown menu](https://raw.githubusercontent.com/LexxFade/Tools/main/Shutdown%20Menu/screenshot.png)
+![shutdown menu](https://raw.githubusercontent.com/ut-kr/shutdown_menu/main/screenshot.png)
 
 
 ### Use for other DE/WM
